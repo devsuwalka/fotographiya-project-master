@@ -1,0 +1,124 @@
+.login {
+    margin-top: 10% !important;
+}
+
+.w-img h6 {
+    margin-left: 5%;
+}
+
+.login img {
+    width: 250px !important;
+    height: 38px;
+    /* margin-top: 49px; */
+    margin-left: 58px !important;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.login h4 {
+    margin-left: 12% !important;
+    font-size: 20px;
+    font-family: Cursive;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.login .btn {
+    background-color: #000000 !important;
+}
+
+.w-img img {
+    height: 350px;
+    width: 500px;
+}
+
+.continue h6 {
+    margin-left: 10% !important;
+    font-size: 18px
+}
+
+.input-f input {
+    height: 50px !important;
+    border-radius: 10px;
+    border: 1px solid #000;
+}
+
+.check input {
+    /* width: 50%!important; */
+    /* height: 50px!important; */
+    border-radius: 10px;
+    border: 1px solid #000;
+}
+
+.input-f .btn {
+    background-color: #000 !important;
+    color: #fff !important;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 14% !important;
+}
+
+.input-f .btn:hover {
+    background-color: #FFFFFF !important;
+    color: #000 !important;
+}
+
+
+.upload-container {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.upload-dropzone {
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    text-align: center;
+    padding: 40px;
+    cursor: pointer;
+    transition: border-color 0.3s;
+}
+
+.upload-dropzone:hover {
+    border-color: #6c757d;
+}
+
+.file-icon {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.uploaded-file {
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    transition: box-shadow 0.3s;
+}
+
+.uploaded-file:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.uploaded-documents-title {
+    font-weight: 500;
+    margin-bottom: 15px;
+    color: #6c757d;
+}
+
+/* Style the clickable "browse" text */
+.browse-text {
+    color: #007bff;
+    cursor: pointer;
+}
+
+.browse-text:hover {
+    text-decoration: underline;
+}
+
+/* Hide the file input */
+#fileInput {
+    display: none;
+}

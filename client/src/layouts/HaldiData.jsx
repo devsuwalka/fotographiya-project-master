@@ -1,0 +1,36 @@
+import haldiimg from '../assets/images/haldi1.jpeg'
+const images = [
+    { id: 1, src: haldiimg, alt: "Image 1" },
+    { id: 2, src: haldiimg, alt: "image 2" },
+    { id: 3, src: haldiimg, alt: "image 3" },
+    { id: 4, src: haldiimg, alt: "Image 4" },
+    { id: 5, src: haldiimg, alt: "Image 1" },
+    { id: 6, src: haldiimg, alt: "image 2" },
+    { id: 7, src: haldiimg, alt: "image 3" },
+    { id: 8, src: haldiimg, alt: "Image 4" },
+    { id: 9, src: haldiimg, alt: "Image 1" },
+    { id: 10, src: haldiimg, alt: "image 2" },
+    { id: 11, src: haldiimg, alt: "image 3" },
+    { id: 12, src: haldiimg, alt: "Image 4" },
+    { id: 13, src: haldiimg, alt: "Image 1" },
+    { id: 14, src: haldiimg, alt: "image 2" },
+    { id: 15, src: haldiimg, alt: "image 3" },
+    { id: 16, src: haldiimg, alt: "Image 4" },
+    { id: 17, src: haldiimg, alt: "Image 1" },
+    { id: 18, src: haldiimg, alt: "image 2" },
+    { id: 19, src: haldiimg, alt: "image 3" },
+    { id: 20, src: haldiimg, alt: "Image 4" },
+    { id: 21, src: haldiimg, alt: "Image 1" },
+    { id: 22, src: haldiimg, alt: "image 2" },
+    { id: 23, src: haldiimg, alt: "image 3" },
+    { id: 24, src: haldiimg, alt: "Image 4" },
+    { id: 25, src: haldiimg, alt: "Image 1" },
+    { id: 26, src: haldiimg, alt: "image 2" },
+    { id: 27, src: haldiimg, alt: "image 3" },
+    { id: 28, src: haldiimg, alt: "Image 4" },
+    { id: 29, src: haldiimg, alt: "Image 4" },
+    { id: 30, src: haldiimg, alt: "Image 4" },
+
+];
+
+export default images
